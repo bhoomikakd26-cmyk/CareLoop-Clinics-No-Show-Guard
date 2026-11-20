@@ -1,0 +1,31 @@
+note_id,appointment_id,reason_category,sentiment,urgency,recommended_action
+N001,A0872,Forgetfulness,Neutral,Medium,Reschedule for next week and verify reminder system settings.
+N002,A0897,Transport,Negative,Low,Suggest tele-consultation or a closer clinic for routine checks.
+N003,A0526,Financial,Negative,Medium,Discuss payment plans or follow-up discounts with the patient.
+N004,A0926,No Information,Neutral,Low,Attempt to contact patient to determine reason for missed visit.
+N005,A0534,Illness,Neutral,Medium,Follow up in 3 days to check recovery and reschedule.
+N006,A0507,Work,Neutral,Medium,Reschedule for an evening slot as requested.
+N007,A0333,Forgetfulness,Neutral,Medium,Reschedule appointment and verify SMS notification delivery.
+N008,A0222,Transport,Negative,Low,Offer tele-health options to mitigate distance and transport issues.
+N009,A0977,Unreachable,Neutral,Low,Try reaching out via alternative contact methods like email.
+N010,A0596,Work,Neutral,Medium,Reschedule for a Saturday slot as per patient preference.
+N011,A0764,Illness,Neutral,Medium,Reschedule once the patient has recovered from the infection.
+N012,A0121,Transport,Neutral,Low,Check if the patient is eligible for tele-consultation.
+N013,A0135,Financial,Negative,Low,Provide information on financial assistance or lower-cost options.
+N014,A0850,Work,Negative,Low,Offer weekend or after-hours appointments.
+N015,A0568,Forgetfulness,Neutral,Medium,Reschedule and ensure automated reminders are functioning.
+N016,A0818,Illness,Neutral,Medium,Reschedule once the patient has recovered.
+N017,A0815,Work,Neutral,Low,Offer flexible scheduling for future appointments.
+N018,A0016,Work,Negative,Low,Offer weekend or after-hours appointments.
+N019,A0074,Forgetfulness,Neutral,Medium,Reschedule and verify patient contact details for reminders.
+N020,A0335,Transport,Negative,Low,Suggest tele-consultation to avoid long travel times.
+N021,A0824,Forgetfulness,Neutral,Medium,Reschedule and fix the reminder notification system.
+N022,A0423,Financial,Neutral,Medium,Reschedule for a date after the patient's payday.
+N023,A0593,Transport,Negative,Low,Offer tele-health or suggest earlier appointment times.
+N024,A0374,Unreachable,Neutral,High,Update contact information via email or alternative records.
+N025,A0728,Forgetfulness,Neutral,Medium,Reschedule and verify contact details for reminders.
+N026,A0863,Family Emergency,Neutral,Medium,Reschedule for a date after the patient returns.
+N027,A0721,Family Emergency,Neutral,Medium,Reschedule and offer well-wishes for the child's health.
+N028,A0324,Unreachable,Neutral,High,Update contact information in the patient record.
+N029,A0585,Transport,Neutral,Low,Check for tele-consultation eligibility.
+N030,A0086,Forgetfulness,Neutral,Medium,Reschedule and ensure automated reminders are active.
